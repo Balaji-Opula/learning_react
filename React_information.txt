@@ -1,0 +1,2 @@
+Single page application.
+page should not load only content/template only load.
