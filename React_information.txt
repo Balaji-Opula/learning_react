@@ -22,3 +22,16 @@ Need to learn in deep for the below.
 14.Async Await
 15.Fetch API
 16.Modules
+
+Concatenation & Template String -   https://www.youtube.com/watch?v=ARF39nwWvA4
+Destructuring - Array & Object -  https://www.youtube.com/watch?v=XNIYsjrsAJ4  
+Higher Order Methods -    https://www.youtube.com/watch?v=d1nQombsFiQ
+filter() vs find() -   https://www.youtube.com/watch?v=Cei901LlYj0
+sort(), some() & every() -    https://www.youtube.com/watch?v=riOPPRQoGC4
+reduce() method  -   https://www.youtube.com/watch?v=iHmjwfAU2_A&t=0s
+Deep Copy & Shallow Copy -  https://www.youtube.com/watch?v=6xn_tOt0Uik&t=0s
+Synchronous Vs ASynchronous -   https://www.youtube.com/watch?v=HqC0GWKAXtY
+PROMISE | Secrets REVEALED -  https://www.youtube.com/watch?v=cCjt1eh40K8
+Async & Await -  https://www.youtube.com/watch?v=YPWjBH2s7mA 
+Fetch API -   https://www.youtube.com/watch?v=EDPOZEI5Ar4
+Modules -  https://www.youtube.com/watch?v=6jjyL1_c86g
