@@ -15,3 +15,10 @@ Need to learn in deep for the below.
 7.Imperative programming
 8.React Hoooks - only used in function not in class
 9.React Router
+10.Destructuring
+11.Template Literal
+12.Arrow function
+13.Promise
+14.Async Await
+15.Fetch API
+16.Modules
