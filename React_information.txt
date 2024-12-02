@@ -1,2 +1,17 @@
+youtube link - https://www.youtube.com/watch?v=8pWdE6ozjf8&list=PL7yKygY4-39lj0KAaOUJkGxNy8r9pU41d
+
 Single page application.
 page should not load only content/template only load.
+
+
+Need to learn in deep for the below.
+
+1.component based architecture. 
+2.virtual DOM
+3.Reconciliation
+4.Diffing Algorithm
+5.JSX (Javascript + XML) or (Javascript + HTML)
+6.Declarative programming
+7.Imperative programming
+8.React Hoooks - only used in function not in class
+9.React Router
